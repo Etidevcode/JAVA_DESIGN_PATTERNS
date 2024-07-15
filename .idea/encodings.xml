@@ -1,9 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/01. SOLID DESING PRINCIPLE/design_principles_SRP_debut/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/01. SOLID DESING PRINCIPLE/design_principles_SRP_debut/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/01. SOLID DESING PRINCIPLE/singleresp/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/01. SOLID DESING PRINCIPLE/singleresp/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/01-Single-Responsibility-Principle/singleresp-begin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/01-Single-Responsibility-Principle/singleresp-begin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/01-Single-Responsibility-Principle/singleresp-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/01-Single-Responsibility-Principle/singleresp-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/02-Open-Closed-Principle/open-closed-principle-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/02-Open-Closed-Principle/open-closed-principle-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/03-Liskov-Sustitution-Principle/liskov-substitution-principle-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/03-Liskov-Sustitution-Principle/liskov-substitution-principle-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/04-Interface-Segregation-Principle/interface-segragation-principle-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/04-Interface-Segregation-Principle/interface-segragation-principle-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/04-Interface-Segregation-Principle/interface-segregation-principle-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/04-Interface-Segregation-Principle/interface-segregation-principle-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/05-dependency-inversion-principle/dependency-inversion-principle-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/05-dependency-inversion-principle/dependency-inversion-principle-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/design_principles_SRP_debut/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/design_principles_SRP_debut/src/main/resources" charset="UTF-8" />
   </component>
 </project>

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_Design_Patterns.iml" filepath="$PROJECT_DIR$/.idea/Java_Design_Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/builder-start.main.iml" filepath="$PROJECT_DIR$/.idea/modules/builder-start.main.iml" />
     </modules>
   </component>
 </project>

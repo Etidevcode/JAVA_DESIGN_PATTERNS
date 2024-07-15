@@ -1,37 +1,37 @@
+| CONTENU                               |
+|---------------------------------------|
+| PRINCIPES DE CONCEPTION SOLIDE        |
+| INTRODUCTION                          |
+| MODÈLES DE CONCEPTION CRÉATIONNELLE   |
+| CONSTRUCTEUR                          |
+| USINE SIMPLE                          |
+| MÉTHODE D'USINE                       |
+| PROTOTYPE                             |
+| USINE ABSTRAITE                       |
+| SINGLETON                             |
+| POOL D'OBJETS                         |
+| MODÈLES DE CONCEPTION STRUCTURELLE    |
+| ADAPTATEUR                            |
+| PONT                                  |
+| DÉCORATEUR                            |
+| COMPOSITE                             |
+| FAÇADE                                |
+| POIDS MOUCHE                          |
+| PROCURATION                           |
+| MODÈLES DE CONCEPTION COMPORTEMENTALE |
+| CHAÎNE DE RESPONSABILITÉ              |
+| COMMANDEMENT                          |
+| INTERPRÈTE                            |
+| MÉDIATEUR                             |
+| ITERATEUR                             |
+| MEMENTO                               |
+| OBSERVATEUR                           |
+| ÉTAT                                  |
+| STRATÉGIE                             |
+| MÉTHODE DE MODÈLE                     |
+| VISITEUR                              |
+| OBJET NULL                            |
 
 
-| CONTENU                    |
-|----------------------------|
-| SOLID DESIGN PRINCIPLES    |
-| INTRODUCTION               |
-| CREATIONAL DESIGN PATTERNS |
-| BUILDER                    |
-| SIMPLE FACTORY             |
-| SIMPLE FACTORY             |
-| FACTORY METHOD             |
-| PROTOTYPE                  |
-| ABSTRACT FACTORY           |
-| SINGLETON                  |
-| OBJECT POOL                |
-| STRUCTURAL DESIGN PATTERNS |
-| ADAPTER                    |
-| BRIDGE                     |
-| DECORATOR                  |
-| COMPOSITE                  |
-| FACADE                     |
-| FLYWEIGHT                  |
-| PROXY                      |
-| BEHAVIORAL DESIGN PATTERNS |
-| CHAIN OF RESPONSIBILITY    |
-| COMMAND                    |
-| INTERPRETER                |
-| MEDIATOR                   |
-| ITERATOR                   |
-| MEMENTO                    |
-| OBSERVER                   |
-| STATE                      |
-| STRATEGY                   |
-| TEMPLATE METHOD            |
-| VISITOR                    |
-| NULL OBJECT                |
+
 

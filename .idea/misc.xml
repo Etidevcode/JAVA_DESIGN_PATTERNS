@@ -8,6 +8,8 @@
         <option value="$PROJECT_DIR$/01. SOLID DESING PRINCIPLE/design_principles_SRP_debut/pom.xml" />
         <option value="$PROJECT_DIR$/singleresp/pom.xml" />
         <option value="$PROJECT_DIR$/01. SOLID DESING PRINCIPLE/singleresp/pom.xml" />
+        <option value="$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/03-Liskov-Sustitution-Principle/liskov-substitution-principle-end/pom.xml" />
+        <option value="$PROJECT_DIR$/01. SOLID DESIGN PRINCIPLE/05-dependency-inversion-principle/dependency-inversion-principle-end/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -16,7 +18,7 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="corretto-11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
